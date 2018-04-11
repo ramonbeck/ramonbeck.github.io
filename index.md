@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Akademischer Flugzeugmodellbau
 ---
 ### Kick-Off-Meeting
 Das Kick-Off-Meeting findet am Mittwoch, den 18.04.2018 um 10:15 im F 216 statt.
