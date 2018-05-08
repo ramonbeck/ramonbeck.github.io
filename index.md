@@ -3,8 +3,8 @@ layout: default
 title: Akademischer Flugzeugmodellbau
 ---
 # Akademischer Flugzeugmodellbau
-### Kick-Off-Meeting
-Das Kick-Off-Meeting findet am Mittwoch, den 18.04.2018 um 10:15 im F 216 statt.
+### Sprechstunden
+Unsere Sprechstunden finden am Dienstag und Donnerstag von 12-14 Uhr im F 230 statt. Hier stehen wir euch mit Rat und Tat bei der Konstruktion eures Modellflugzeugs zur Seite.
 
 ### Zielstellung
 Die Projektwerkstatt aerolab hat das Ziel, den akademischen Flugzeugmodellbau an der TU Berlin zu fördern und Studierenden Grundkenntnisse des Flugzeugbaus zu vermitteln.
