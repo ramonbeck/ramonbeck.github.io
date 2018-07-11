@@ -4,7 +4,7 @@ title: Akademischer Flugzeugmodellbau
 ---
 # Akademischer Flugzeugmodellbau
 ### Sprechstunden
-Unsere Sprechstunden finden Dienstag und Donnerstag von 12-14 Uhr im F 230 statt. Hier stehen wir euch mit Rat und Tat bei der Konstruktion eures Modellflugzeugs zur Seite. Zusätzlich könnt ihr am Simulator das Fliegen mit einem Modellflug-Transmitter üben.
+Unsere Sprechstunden finden nach Vereinbarung im F032a statt. Hier stehen wir euch mit Rat und Tat bei der Konstruktion eures Modellflugzeugs zur Seite. Zusätzlich könnt ihr am Simulator das Fliegen mit einem Modellflug-Transmitter üben.
 
 ### Zielstellung
 Die Projektwerkstatt aerolab hat das Ziel, den akademischen Flugzeugmodellbau an der TU Berlin zu fördern und Studierenden Grundkenntnisse des Flugzeugbaus zu vermitteln.
